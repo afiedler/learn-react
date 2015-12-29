@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "meetingPlanner",
+    "style": "scss",
+    "postcss": true
+  }
+}
